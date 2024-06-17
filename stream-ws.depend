@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1718587809 source:e:\projects\educacion\stream\stream-ws\main.cpp
+	<iostream>
+	"menu.h"
+
+1718588079 e:\projects\educacion\stream\stream-ws\menu.h
+
+1718588264 source:e:\projects\educacion\stream\stream-ws\menu.cpp
+	<iostream>
+	"menu.h"
+	"creaditos.h"
+
