@@ -5,3 +5,7 @@
 
 1718586877 e:\projects\educacion\stream\stream-ws\menu.h
 
+1718586925 source:e:\projects\educacion\stream\stream-ws\main.cpp
+	<iostream>
+	"menu.h"
+
