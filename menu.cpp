@@ -1,6 +1,6 @@
 #include <iostream>
 #include "menu.h"
-#include "creditos.h"
+#include "creaditos.h"
 using namespace std;
 
 void menu()
@@ -19,11 +19,7 @@ void menu()
 
         switch(opcion)
         {
-        case 3:
-            menuEstadisticas();
-            break;
     case 4:
-        
         menuCreaditos();
         break;
         case 0:
