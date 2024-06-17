@@ -6,8 +6,9 @@ using namespace std;
 void menu()
 {
     int opcion;
-    
-    do{
+
+    do
+    {
         cout << "MENU PRINCIPAL!"<< endl;
         cout << "1 - UN JUGADOR" << endl;
         cout << "2 - DOS JUGADOR" << endl;
@@ -22,19 +23,21 @@ void menu()
         case 3:
             menuEstadisticas();
             break;
-    case 4:
-        
-        menuCreaditos();
-        break;
+        case 4:
+
+            menuCreaditos();
+            break;
         case 0:
             return;
             break;
         }
-    }while(opcion != 0);
+    }
+    while(opcion != 0);
 }
 
 
-void menuEstadisticas(){
+void menuEstadisticas()
+{
     cout << "Soy estadisticas" << endl;
 
 }
