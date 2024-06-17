@@ -28,3 +28,9 @@ void menu()
         }
     }while(opcion != 0);
 }
+
+
+void menuEstadisticas(){
+    cout << "Soy estadisticas" << endl;
+
+}
