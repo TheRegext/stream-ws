@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1718586875 source:e:\projects\educacion\stream\stream-ws\menu.cpp
+	<iostream>
+	"menu.h"
+
+1718586877 e:\projects\educacion\stream\stream-ws\menu.h
+
