@@ -3,10 +3,16 @@
 	<iostream>
 	"menu.h"
 
-1718588079 e:\projects\educacion\stream\stream-ws\menu.h
+1718588923 e:\projects\educacion\stream\stream-ws\menu.h
 
 1718588264 source:e:\projects\educacion\stream\stream-ws\menu.cpp
 	<iostream>
 	"menu.h"
 	"creaditos.h"
+
+1718588833 source:e:\projects\educacion\stream\stream-ws\creditos.cpp
+	<iostream>
+	"creditos.h"
+
+1718588738 e:\projects\educacion\stream\stream-ws\creditos.h
 
